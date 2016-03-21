@@ -132,6 +132,7 @@
 /************** MAIN ***************/
 
 	.content {
+        display: inline-block;
 		background: #FFF;
 		font-family: 'Roboto', arial, sans-serif;
 		font-size: 16px;
@@ -535,7 +536,7 @@
 		float: left;
 		margin-left: 15px;
 		margin-top: 15px;
-		margin-bottom: 15px;
+		margin-bottom: 10px;
 		border-bottom: 0;
 	}
 
@@ -554,7 +555,7 @@
 
 	.about > img {
 		float: right;
-		max-width: 300px;
+		max-width: 298px;
 		display:inline-block;
 	}
 
